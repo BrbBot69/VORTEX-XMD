@@ -9,7 +9,7 @@ module.exports = {
     // ==============================
     //          SESSION
     // ==============================
-    SESSION_ID: process.env.SESSION_ID || "",
+    SESSION_ID: process.env.SESSION_ID || "HansTz&OkIDTQyK#INBaI0nj4uMAHuk0HVZQxryn-YUnRJba6RymVZkLrXg",
 
     // ==============================
     //           OWNER
@@ -52,7 +52,7 @@ module.exports = {
     // ==============================
     //           GROUP
     // ==============================
-    WELCOME: process.env.WELCOME || "false",
+    WELCOME: process.env.WELCOME || "true",
     ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
     ANTI_LINK: process.env.ANTI_LINK || "false",
     ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
