@@ -14,9 +14,9 @@ module.exports = {
     // ==============================
     //           OWNER
     // ==============================
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "",
-    OWNER_NAME: process.env.OWNER_NAME || "HansTech",
-    DEV: process.env.DEV || "255614195217",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "27767494368",
+    OWNER_NAME: process.env.OWNER_NAME || "𝕬𝖛𝖊.𝕭",
+    DEV: process.env.DEV || "27767494368",
 
     // ==============================
     //         ANTI CALL
@@ -29,7 +29,7 @@ module.exports = {
     // ==============================
     MODE: process.env.MODE || "public",
     PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
-    ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+    ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 
     // ==============================
     //          CHATBOT
@@ -71,13 +71,13 @@ module.exports = {
     // ==============================
     //      BOT APPEARANCE
     // ==============================
-    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/di5kdx.jpg",
+    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/bhuppk.jpg",
     PREFIX: process.env.PREFIX || ".",
     BOT_NAME: process.env.BOT_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
     STICKER_NAME: process.env.STICKER_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/di5kdx.jpg",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bhuppk.jpg",
     LIVE_MSG: process.env.LIVE_MSG || "> 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃⚡ IS ALIVE",
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ HansTech*",
+    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝕬𝖛𝖊.𝕭*",
 
     // ==============================
     //         REACTIONS
